@@ -2,7 +2,7 @@
 
 > My Python learning journey — from basics to data science, documented with daily practice code.
 
-[![Python](https://img.shields.io/badge/Python-3.13.7-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.14.4-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org)
@@ -28,77 +28,7 @@ This repository documents my hands-on Python learning journey. Every folder and 
 ```
 Python Basics → Data Structures → Intermediate Python → Advanced Python → Data Science
 ```
-
 ---
-
-## 📂 Topics Covered
-
-### 🔹 Python Basics
-| Topic | File |
-|-------|------|
-| Variables & Data Types | `python1/` |
-| Conditional Statements | `conditionalSt.py` |
-| Match Statements | `match.py` |
-| Loops (`for`, `while`) | `loops.py` |
-| Else in Loops | `elseInloop.py` |
-| Functions | `function.py` |
-| f-Strings | `fString.py` |
-| DocStrings | `DocString.py` |
-| Global vs Local Variables | `GlobalLocalVar.py` |
-| How Imports Work | `importswork.py` |
-
-### 🔹 Data Structures
-| Topic | File |
-|-------|------|
-| Lists | `list.py` |
-| Tuples | `Tuples.py` |
-| Sets | `set.py` |
-| Dictionaries | `Dictionary.py` |
-
-### 🔹 Intermediate Python
-| Topic | File/Folder |
-|-------|-------------|
-| Recursion | `Recursion.py` |
-| File Handling | `FileHandling/` |
-| Exception Handling | `ExcepHandling.py` |
-| Custom Exceptions | `CustomErr.py` |
-| Lambda Functions | `LambdaFunction/` |
-| OS Module | `OSModule/` |
-| Date & Time | `datetimeM.py`, `TimeModule/` |
-| Walrus Operator | `WalrusOperator/` |
-| Comparison Operators | `ComparisonOp/` |
-
-### 🔹 Advanced Python
-| Topic | File/Folder |
-|-------|-------------|
-| OOP Concepts | `OOPsConcepts/` |
-| `super()` Keyword | `SuperKeyword/` |
-| Dunder (Magic) Methods | `DunderMethods/` |
-| Enumerate Function | `EnumerateFunction/` |
-| Generators | `Generator/` |
-| Multithreading | `Multithreading/` |
-| Multiprocessing | `MultiProcessing/` |
-| Function Caching | `FunctionCaching/` |
-| Requests Module | `RequestModule/` |
-| Shutil Module | `ShutilModule/` |
-
-### 🔹 Data Science Libraries
-| Library | Folder | Description |
-|---------|--------|-------------|
-| NumPy | `Numpy/` | Array operations, numerical computing |
-| Pandas | `pandas/` | Data manipulation and analysis |
-| Matplotlib | `matplotlib/` | Data visualization and plotting |
-| Seaborn | `seaborn/` | Statistical data visualization |
-
-### 🔹 Practice & Exercises
-| Topic | File/Folder |
-|-------|-------------|
-| Practice Exercises | `Exercises/` |
-| Entry Points | `main.py`, `main1.py` |
-| Miscellaneous | `GoodMor.py` |
-
----
-
 ## 📁 Repository Structure
 
 ```
@@ -175,8 +105,8 @@ pip install numpy pandas matplotlib seaborn requests
 - [x] Python Basics
 - [x] Data Structures
 - [x] Intermediate Python
-- [ ] Advanced Python (Learning)
 - [x] Data Science (NumPy, Pandas, Matplotlib, Seaborn)
+- [ ] Advanced Python (Learning)
 - [ ] Machine Learning (Learning)
 
 ---
