@@ -116,7 +116,4 @@ pip install numpy pandas matplotlib seaborn requests
 This is a personal learning repo, but feel free to suggest improvements via [Issues](https://github.com/narendra72/python-practice/issues).
 
 ---
-
-<div align="center">
-  Made with ❤️ by <a href="https://github.com/narendra72">Narendra Choudhary</a>
 </div>
